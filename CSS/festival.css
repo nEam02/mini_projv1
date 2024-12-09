@@ -1,0 +1,58 @@
+body{
+  max-width: 900px;
+  margin: 0 auto;
+  font-family: Arial;
+  padding: 20px;
+  text-align: center;
+}
+header{
+  padding: 20px;
+  border-radius: 10px;
+  margin-bottom: 30px;
+}
+header h1{
+  font-size: 32px;
+  color: #333;
+}
+header p{
+  font-size: 19px;
+  color: #555;
+  margin-top: 10px;
+}
+.festival{
+  background-color: #fff;
+  margin-bottom: 30px;
+  padding: 20px;
+}
+.festival h2{
+  font-size: 29px;
+  color: #0078d7;
+  margin-bottom: 10px;
+}
+.festival p{
+  font-size: 16px;
+  color: #666;
+  margin-bottom: 10px;
+  line-height: 1.5;
+}
+.festival a{
+  text-decoration: none;
+}
+.festival img{
+  width: 100%;
+  max-width: 400px;
+  height: auto;
+  border-radius: 10px;
+  margin-top: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+.gallery_button{
+  padding: 10px 20px;
+  background-color: #0078d7;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 16px;
+  transition: background-color 0.3s;
+}
